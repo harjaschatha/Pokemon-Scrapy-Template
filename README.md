@@ -1,0 +1,1 @@
+# Pokemon Scrapy Template
